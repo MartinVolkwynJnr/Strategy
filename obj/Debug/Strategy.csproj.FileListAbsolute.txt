@@ -1,0 +1,6 @@
+E:\Private\Projects\Strategy\bin\Debug\Strategy.exe.config
+E:\Private\Projects\Strategy\bin\Debug\Strategy.exe
+E:\Private\Projects\Strategy\bin\Debug\Strategy.pdb
+E:\Private\Projects\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+E:\Private\Projects\Strategy\obj\Debug\Strategy.exe
+E:\Private\Projects\Strategy\obj\Debug\Strategy.pdb
